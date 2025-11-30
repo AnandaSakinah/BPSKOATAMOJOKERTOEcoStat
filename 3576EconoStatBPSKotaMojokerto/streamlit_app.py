@@ -1,7 +1,8 @@
 import streamlit as st
-from st_gsheets_connection import GSheetsConnection
+from streamlit_gsheets import GSheetsConnection
 import pandas as pd
 import matplotlib.pyplot as plt
+
 
 # --- Custom CSS ---
 st.markdown(
