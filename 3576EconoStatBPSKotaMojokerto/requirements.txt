@@ -1,5 +1,6 @@
-streamlit==1.25.0
-pandas==2.0.3
-matplotlib==3.7.1
-gspread
-google-auth
+streamlit==1.32.0
+pandas==2.1.4
+matplotlib==3.8.2
+pillow==10.2.0
+gspread==6.2.1
+google-auth==2.30.0
